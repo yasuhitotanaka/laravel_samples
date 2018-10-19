@@ -1,0 +1,15 @@
+name: Acme
+description: 'Simple bootstrap theme'
+author: 'yasu tnk'
+homepage: ''
+code: ''
+form:
+  fields:
+    site_name:
+      label: Site name
+      comment: The global website name
+      default: Acme
+    site_description:
+      label: Site description
+      comment: The global website description
+      default: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
